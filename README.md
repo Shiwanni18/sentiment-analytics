@@ -1,1 +1,1 @@
-# sentiment-analytics
+# sentiment-analytics Sentiment analysis is a natural language processing (NLP) technique used to determine the emotional tone behind a piece of text. It categorizes text as positive, negative, or neutral, helping businesses and researchers analyze opinions, customer feedback, social media posts, and more.
